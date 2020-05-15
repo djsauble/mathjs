@@ -25,7 +25,6 @@
     "unit"
   ],
   "dependencies": {
-    "complex.js": "^2.0.11",
     "decimal.js": "^10.2.0",
     "escape-latex": "^1.2.0",
     "fraction.js": "^4.0.12",
